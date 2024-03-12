@@ -10,9 +10,5 @@ Hey there, I'm Rudransh!
 ![](https://komarev.com/ghpvc/?username=extedcouD&color=dc143c)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=extedcouD&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=extedcouD&icon=5&color=1)](https://visitcount.itsvg.in)
-![](https://github-readme-streak-stats.herokuapp.com/?user=extedcouD&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=extedcouD&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
