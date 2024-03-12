@@ -1,6 +1,23 @@
 # 💫 About Me:
 Hey there, I'm Rudransh! 
 
+## 🎮My Games:
+Check out the games I've developed! Dive in and let me know what you think:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/CaWIoOA.png" width="100" alt="Inventory Idle Icon"><br>
+      <a href="https://play.google.com/store/apps/details?id=com.extedcoud.invntoryidle&hl=en&gl=US"><b>Inventory Idle</b></a>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/6tBTwlf.jpeg" width="200" alt="Breakyo Icon"><br>
+      <a href="https://store.steampowered.com/app/1997910/Breakyo/"><b>Breakyo</b></a>
+    </td>
+  </tr>
+</table>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/zZeQUXUtFQ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rudransh-shinghal-484b78281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23585092) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@trufanzi9581?feature=shared) 
 
