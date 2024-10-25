@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hey there, I'm Rudransh! 
-
 ## 🎮My Games:
 Check out the games I've developed! Dive in and let me know what you think:
 
