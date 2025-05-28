@@ -5,7 +5,7 @@
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/LG33jwz.png" width="200" alt="Inventory Idle Icon"><br>
-      <a href="https://play.google.com/store/apps/details?id=com.extedcoud.invntoryidle&hl=en&gl=US"><b>Inventory Idle</b></a>
+      <a href="https://apps.apple.com/gr/app/inventory-idle/id6744122818"><b>Inventory Idle</b></a>
     </td>
     <td align="center">
       <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997910/header.jpg?t=1742053428" width="200" alt="Breakyo Icon"><br>
