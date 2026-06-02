@@ -1,6 +1,4 @@
-## 🎮My Games:
-
-
+## 🎮 My Indie Games:
 <table>
   <tr>
     <td align="center">
@@ -14,11 +12,22 @@
   </tr>
 </table>
 
-
-
-# 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=extedcouD&color=dc143c)<br/>
-![](https://github-readme-stats.vercel.app/api?username=extedcouD&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📦 Open source Projects:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.npmjs.com/package/json-to-yaml-ref"><b>json-to-yaml-ref</b></a><br>
+      <sub>Convert JSON to YAML with automatic anchors &amp; aliases</sub><br><br>
+      <a href="https://www.npmjs.com/package/json-to-yaml-ref">
+        <img src="https://img.shields.io/npm/v/json-to-yaml-ref?logo=npm&logoColor=white&color=cb3837&label=npm" alt="npm version">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.npmjs.com/package/@extedcoud/smart-components"><b>@extedcoud/smart-components</b></a><br>
+      <sub>React UI component library</sub><br><br>
+      <a href="https://www.npmjs.com/package/@extedcoud/smart-components">
+        <img src="https://img.shields.io/npm/v/@extedcoud/smart-components?logo=npm&logoColor=white&color=cb3837&label=npm" alt="npm version">
+      </a>
+    </td>
+  </tr>
+</table>
