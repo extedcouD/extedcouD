@@ -29,5 +29,12 @@
         <img src="https://img.shields.io/npm/v/@extedcoud/smart-components?logo=npm&logoColor=white&color=cb3837&label=npm" alt="npm version">
       </a>
     </td>
+    <td align="center">
+      <a href="https://marketplace.visualstudio.com/items?itemName=extedcouD56.gist-clip"><b>Gist Clip</b></a><br>
+      <sub>Right-click a file → create a GitHub gist &amp; copy its URL</sub><br><br>
+      <a href="https://marketplace.visualstudio.com/items?itemName=extedcouD56.gist-clip">
+        <img src="https://img.shields.io/visual-studio-marketplace/v/extedcouD56.gist-clip?logo=visualstudiocode&logoColor=white&color=007ACC&label=marketplace" alt="VS Code Marketplace version">
+      </a>
+    </td>
   </tr>
 </table>
