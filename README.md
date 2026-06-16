@@ -33,7 +33,7 @@
       <a href="https://marketplace.visualstudio.com/items?itemName=extedcouD56.gist-clip"><b>Gist Clip</b></a><br>
       <sub>Right-click a file → create a GitHub gist &amp; copy its URL</sub><br><br>
       <a href="https://marketplace.visualstudio.com/items?itemName=extedcouD56.gist-clip">
-        <img src="https://img.shields.io/visual-studio-marketplace/v/extedcouD56.gist-clip?logo=visualstudiocode&logoColor=white&color=007ACC&label=marketplace" alt="VS Code Marketplace version">
+        <img src="https://vsmarketplacebadges.dev/version-short/extedcouD56.gist-clip.svg?logo=visualstudiocode&logoColor=white&color=007ACC&label=marketplace" alt="VS Code Marketplace version">
       </a>
     </td>
   </tr>
